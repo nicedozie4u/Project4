@@ -298,6 +298,7 @@ Now you can access our Book Register web application from the Internet with a br
 
 This is how your Web Book Register Application will look like in browser:
 
+
 ![Book Register App](./images/book_register.PNG)
 
 ## Congratulations!
