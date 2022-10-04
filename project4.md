@@ -77,7 +77,7 @@ app.listen(app.get('port'), function() {
 
 ```
 
-## INSTALL EXPRESS AND SET UP ROUTES TO THE SERVER
+## Install Express and setup routes to the server
 
 Express is a minimal and flexible *Node.js* web application framework that provides features for web and mobile applications. We will use Express in to pass book information to and from our MongoDB database.
 
