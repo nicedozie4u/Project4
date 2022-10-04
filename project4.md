@@ -57,11 +57,11 @@ In the Books directory, Initialize npm project
 
 `npm init`
 
-Add a file to it named `server.js`
+Add a file to it named *server.js*
 
-vi server.js
+`vi server.js`
 
-Copy and paste the web server code below into the `server.js` file.
+Copy and paste the web server code below into the *server.js* file.
 
 ```
 var express = require('express');
